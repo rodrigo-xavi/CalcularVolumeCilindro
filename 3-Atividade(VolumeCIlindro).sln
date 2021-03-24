@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Atividade(VolumeCIlindro)", "3-Atividade(VolumeCIlindro)\3-Atividade(VolumeCIlindro).csproj", "{CC2D59CE-340D-4934-9E2D-DB02EB4F885A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2D59CE-340D-4934-9E2D-DB02EB4F885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2D59CE-340D-4934-9E2D-DB02EB4F885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2D59CE-340D-4934-9E2D-DB02EB4F885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2D59CE-340D-4934-9E2D-DB02EB4F885A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E0A97EB-7617-499F-AEFD-E3FC7A69B7D8}
+	EndGlobalSection
+EndGlobal
